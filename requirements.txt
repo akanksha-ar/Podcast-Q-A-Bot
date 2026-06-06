@@ -1,0 +1,7 @@
+moviepy
+openai-whisper
+torch
+sentence-transformers
+faiss-cpu
+numpy
+pandas
